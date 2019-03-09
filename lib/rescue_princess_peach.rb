@@ -4,7 +4,9 @@ def rescue_princess_peach
 end
 
 
-
+def catch_phrase
+  
+end  
 
 ## Comment the below back in to see method scope in action!
 
